@@ -1,1 +1,1 @@
-# promptmart
+# promptmart a prompt selling platform
